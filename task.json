@@ -1,0 +1,10 @@
+[
+    {
+        "title": "personal to do list",
+        "description": "add,view,delete,complete,exit",
+        "category": "personal",
+        "due_date": "2025-12-30",
+        "completed": true,
+        "created_at": "2025-12-31 21:25"
+    }
+]
