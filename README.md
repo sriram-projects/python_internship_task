@@ -60,7 +60,4 @@ contact : 9600445395
 Internship: Vault of Codes
 
 
-You can just copy this as **README.md** in the same folder as your project, commit, and push to GitHub.  
-
-If you want, I can **also make a very short “student style” version** for the other two projects so your repo has **one README per project** neatly.  
 
